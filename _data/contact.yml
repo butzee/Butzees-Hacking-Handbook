@@ -7,6 +7,10 @@
   icon: 'fa fa-cube'
   url: 'https://app.hackthebox.com/profile/1325132'
 
+- type: tryhackme
+  icon: 'fa-solid fa-cloud'
+  url: 'https://tryhackme.com/p/Butzee'
+
 #-
 #  type: twitter
 #  icon: 'fab fa-twitter'
